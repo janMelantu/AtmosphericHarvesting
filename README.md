@@ -13,14 +13,14 @@ The basic conversion ratio is 3:4, or 1200 units of Liquid Hydrogen (the smalles
 ## Dependencies
 This mod could not exist without other mods doing the heavy lifting. Specifically, this mod absolutely requires (and is bundled with)
 
-* Module Manager
-* Community Resource Pack
+* [Module Manager (4.1.4)](https://github.com/sarbian/ModuleManager)
+* [Community Resource Pack (1.3.0)](https://github.com/BobPalmer/CommunityResourcePack)
 
 Unless you want to create your own Hydrogen tanks, this mod also requires (but is *not* bundled with)
 
-* CryoTanks
-* B9PartSwitch (Bundled with CryoTanks)
-* DynamicBatteryStorage (Bundled with CryoTanks)
+* [CryoTanks (1.5.2)](https://github.com/ChrisAdderley/CryoTanks)
+* [B9PartSwitch (2.17.0) (Bundled with CryoTanks)](https://github.com/blowfishpro/B9PartSwitch)
+* [DynamicBatteryStorage (2.1.7) (Bundled with CryoTanks)](https://github.com/ChrisAdderley/DynamicBatteryStorage)
 
 ## Installation
 To install, place the GameData folder inside your Kerbal Space Program folder. If asked to overwrite files, please do so.
@@ -36,8 +36,8 @@ For translation instructions please see Localization Instructions
 ## Licensing
 Any bundled mods are distributed under their own licenses:
 
-* ModuleManager by ialdabaoth and sarbian is distributed under a Creative Commons Sharealike license. More details, including source code, can be found here
-* The Community Resource Pack by RoverDude is also distributed under its own license. Please find source and more details here
+* ModuleManager by ialdabaoth and sarbian is distributed under a Creative Commons Sharealike license. More details, including source code, can be found [here](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-18x-110x-module-manager-414-july-7th-2020-locked-inside-edition/&tab=comments#comment-720814)
+* The Community Resource Pack by RoverDude is also distributed under its own license. Please find source and more details [here](https://github.com/BobPalmer/CommunityResourcePack)
 
 Everything else is distributed under the MIT license.
 
