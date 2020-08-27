@@ -10,6 +10,8 @@ The basic conversion ratio is 3:4, or 1200 units of Liquid Hydrogen (the smalles
 | --- | --- | --- | --- | --- | --- | --- |
 | MAH MOXIE | 0.5 ec/s | 33 hr (5.5 days) | 22.125 days | 88.5 days | 354 days | 796.5 days |
 
+In Addition to a basic LFO ISRU, there are also other ISRU modes (Including Water, Oxygen, and Methalox) depending on what other mods you may have (life support mods, Rational Resources, etc)
+
 ## Dependencies
 This mod could not exist without other mods doing the heavy lifting. Specifically, this mod absolutely requires (and is bundled with)
 
